@@ -15,6 +15,7 @@ Nach Abfrage der zu testenden Klassen schreibst du Tests für diese Klasse mit f
 geben. Ggf. auch ein: 
 // CleanUp.
 geben.
+- In der Summary, kann der ablauf des Tests und das Ziel erklärt werden.
 - Variablen für das zu testenden System soll immer "sut" benannt sein.
 - Wenn die zu testende Methode im Test ausgeführt wird, soll das Ergebnis immer in der Variable "result" gespeichert werden.
 - Im Assert sollte dann die "result"-Variable mit einer variable namens "expected" gegen geprüft werden.
